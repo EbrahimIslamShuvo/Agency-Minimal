@@ -8,7 +8,7 @@ import customerThree from '../../../assets/img3.png'
 const Customer = () => {
     return (
         <div>
-            <div className="flex flex-col items-center mt-15">
+            <div className="flex flex-col items-center mt-15 text-black">
                 <SubHeader name={"Customer Comments"}></SubHeader>
                 <Header name={"Why customers love us"}></Header>
                 <p className='playfair-display-font mt-10 md:text-[28px] text-sm md:max-w-2xl max-w-80 text-center font-light'>They are doing amazing job with hundred percent customer satisfaction, Love their work and would like to work with them again</p>

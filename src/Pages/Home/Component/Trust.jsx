@@ -6,7 +6,7 @@ import { FaPlay } from "react-icons/fa";
 const Trust = () => {
     return (
         <div>
-            <div className="flex flex-col items-center gap-5">
+            <div className="flex flex-col items-center gap-5 text-black">
                 <h1 className='dm-sans-font font-bold md:text-[44px] text-[35px] text-center md:leading-[60px] leading-[43px] max-w-xl'>Leading companies trust us to develop software</h1>
                 <p className='dm-sans-font text-[15px] text-center leading-[28px] text-gray-600 max-w-lg'>We believe it’s important for everyone to have access to software especially when it comes to digital learning be navigate.</p>
                 <div className="flex items-center gap-1 ml-8">

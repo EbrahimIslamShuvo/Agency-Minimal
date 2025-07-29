@@ -5,7 +5,7 @@ import { FaAngleRight } from "react-icons/fa6";
 const CustomerSupport = () => {
     return (
         <div>
-            <div className="flex flex-col md:flex-row items-center justify-center md:w-8/12 w-10/12 mx-auto py-15">
+            <div className="flex flex-col md:flex-row items-center justify-center md:w-8/12 w-10/12 mx-auto py-15 text-black">
                 <div className="flex flex-col gap-5">
                     <h1 className='dm-sans-font font-bold md:text-[46px] text-[32px] md:leading-[60px] leading-[40px] md:max-w-lg'>Free Customer Support to ensure what you like to expect</h1>
                     <p className='dm-sans-font md:text-[15px] text-[13px] leading-[32px] max-w-md'>We offer a risk-free trial period of up to two weeks. You will only have to pay if you are happy with the developer and wish to continue. If you are unsatisfied, we’ll refund payment or fix issues on our dime period customers.</p>

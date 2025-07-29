@@ -9,7 +9,7 @@ import BlogCard from '../../../Component/BlogCard';
 const Blog = () => {
     return (
         <div>
-            <div className="flex flex-col items-center mt-10">
+            <div className="flex flex-col items-center mt-10 text-black">
                 <SubHeader name={"Quality features"}></SubHeader>
                 <Header name={"Tutorials that people love most"}></Header>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-15 mt-10 md:w-7/12 w-9/12 mx-auto">

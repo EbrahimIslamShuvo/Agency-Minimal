@@ -9,7 +9,7 @@ import featureFour from "../../../assets/aad4.png"
 
 const Feature = () => {
     return (
-        <div>
+        <div className='bg-white text-black'>
             <div className="flex flex-col items-center mt-15">
                 <SubHeader name={"Quality features"}></SubHeader>
                 <Header name={"Meet exciting feature of app"}></Header>

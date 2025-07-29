@@ -1,15 +1,15 @@
 import React from 'react';
-import choose from '../../../assets/sec2.png'
+import choose from '../../../assets/img.png'
 import { GrStatusGood } from "react-icons/gr";
 import { FaAngleRight } from "react-icons/fa6";
 
 const Choose = () => {
     return (
         <div>
-            <div className="flex flex-col md:flex-row items-center gap-20 container px-6 mx-auto py-15">
+            <div className="flex flex-col md:flex-row items-center container md:px-45 px-6 mx-auto py-15 text-black">
                 <div className="flex justify-center items-center mx-auto">
                     <div className="">
-                        <img className='w-150' src={choose} alt="" />
+                        <img className='md:w-150 w-90' src={choose} alt="" />
                     </div>
                 </div>
                 <div className="">
